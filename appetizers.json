@@ -1,0 +1,205 @@
+{
+
+"request": [
+  {
+    "id": 1,
+    "name": "Classic Burger",
+    "description": "Juicy beef patty with fresh lettuce and special sauce",
+    "price": 9.99,
+    "imageURL": "burger.jpg",
+    "calories": 650,
+    "protein": 25,
+    "carbs": 40
+  },
+  {
+    "id": 2,
+    "name": "Truffle Fries",
+    "description": "Crispy fries tossed in truffle oil and parmesan",
+    "price": 5.49,
+    "imageURL": "truffle_fries.jpg",
+    "calories": 420,
+    "protein": 5,
+    "carbs": 58
+  },
+  {
+    "id": 3,
+    "name": "Berry Smoothie",
+    "description": "Mixed berries blended with Greek yogurt and honey",
+    "price": 6.25,
+    "imageURL": "smoothie.jpg",
+    "calories": 220,
+    "protein": 8,
+    "carbs": 38
+  },
+  {
+    "id": 4,
+    "name": "Avocado Toast",
+    "description": "Sourdough bread topped with mashed avocado and microgreens",
+    "price": 8.75,
+    "imageURL": "avocado_toast.jpg",
+    "calories": 320,
+    "protein": 7,
+    "carbs": 35
+  },
+  {
+    "id": 5,
+    "name": "Grilled Salmon",
+    "description": "Atlantic salmon fillet with lemon butter sauce",
+    "price": 18.50,
+    "imageURL": "salmon.jpg",
+    "calories": 480,
+    "protein": 35,
+    "carbs": 10
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Brownie",
+    "description": "Fudgy chocolate brownie with walnut pieces",
+    "price": 4.99,
+    "imageURL": "brownie.jpg",
+    "calories": 380,
+    "protein": 5,
+    "carbs": 52
+  },
+  {
+    "id": 7,
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing and croutons",
+    "price": 7.95,
+    "imageURL": "caesar_salad.jpg",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 20
+  },
+  {
+    "id": 8,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce and fresh mozzarella",
+    "price": 12.99,
+    "imageURL": "pizza.jpg",
+    "calories": 720,
+    "protein": 22,
+    "carbs": 85
+  },
+  {
+    "id": 9,
+    "name": "Iced Matcha Latte",
+    "description": "Premium matcha powder blended with milk and ice",
+    "price": 5.75,
+    "imageURL": "matcha_latte.jpg",
+    "calories": 120,
+    "protein": 6,
+    "carbs": 18
+  },
+  {
+    "id": 10,
+    "name": "Beef Tacos",
+    "description": "Three soft tortillas with seasoned beef and salsa",
+    "price": 10.25,
+    "imageURL": "tacos.jpg",
+    "calories": 550,
+    "protein": 28,
+    "carbs": 45
+  },
+  {
+    "id": 11,
+    "name": "Vegetable Stir Fry",
+    "description": "Assorted vegetables wok-tossed in ginger sauce",
+    "price": 11.50,
+    "imageURL": "stir_fry.jpg",
+    "calories": 320,
+    "protein": 9,
+    "carbs": 42
+  },
+  {
+    "id": 12,
+    "name": "Blueberry Pancakes",
+    "description": "Fluffy pancakes with fresh blueberries and maple syrup",
+    "price": 8.25,
+    "imageURL": "pancakes.jpg",
+    "calories": 480,
+    "protein": 10,
+    "carbs": 75
+  },
+  {
+    "id": 13,
+    "name": "Mushroom Risotto",
+    "description": "Creamy arborio rice with wild mushrooms",
+    "price": 13.75,
+    "imageURL": "risotto.jpg",
+    "calories": 420,
+    "protein": 11,
+    "carbs": 62
+  },
+  {
+    "id": 14,
+    "name": "Chicken Wrap",
+    "description": "Grilled chicken in whole wheat tortilla with veggies",
+    "price": 8.95,
+    "imageURL": "chicken_wrap.jpg",
+    "calories": 380,
+    "protein": 24,
+    "carbs": 35
+  },
+  {
+    "id": 15,
+    "name": "Fruit Parfait",
+    "description": "Layered yogurt with granola and seasonal fruits",
+    "price": 6.50,
+    "imageURL": "parfait.jpg",
+    "calories": 240,
+    "protein": 10,
+    "carbs": 40
+  },
+  {
+    "id": 16,
+    "name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs with house barbecue sauce",
+    "price": 16.99,
+    "imageURL": "ribs.jpg",
+    "calories": 780,
+    "protein": 42,
+    "carbs": 65
+  },
+  {
+    "id": 17,
+    "name": "Espresso",
+    "description": "Single shot of premium dark roast coffee",
+    "price": 3.25,
+    "imageURL": "espresso.jpg",
+    "calories": 5,
+    "protein": 0,
+    "carbs": 1
+  },
+  {
+    "id": 18,
+    "name": "Veggie Burger",
+    "description": "Plant-based patty with avocado and tomato",
+    "price": 11.25,
+    "imageURL": "veggie_burger.jpg",
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55
+  },
+  {
+    "id": 19,
+    "name": "Shrimp Pasta",
+    "description": "Linguine with garlic shrimp in white wine sauce",
+    "price": 15.50,
+    "imageURL": "shrimp_pasta.jpg",
+    "calories": 580,
+    "protein": 32,
+    "carbs": 72
+  },
+  {
+    "id": 20,
+    "name": "Cheesecake",
+    "description": "New York style cheesecake with berry compote",
+    "price": 7.99,
+    "imageURL": "cheesecake.jpg",
+    "calories": 520,
+    "protein": 8,
+    "carbs": 45
+  }
+]
+}
