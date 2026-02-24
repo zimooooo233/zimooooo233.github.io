@@ -9,7 +9,8 @@
     "imageURL": "https://zimooooo233.github.io/images/ClassicBurger.webp",
     "calories": 650,
     "protein": 25,
-    "carbs": 40
+    "carbs": 40,
+    "category": "Burgers"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "imageURL": "https://zimooooo233.github.io/images/TruffleFries.avif",
     "calories": 420,
     "protein": 5,
-    "carbs": 58
+    "carbs": 58,
+    "category": "Appetizers"
   },
   {
     "id": 3,
@@ -29,7 +31,8 @@
     "imageURL": "https://zimooooo233.github.io/images/BerrySmoothie.jpg",
     "calories": 220,
     "protein": 8,
-    "carbs": 38
+    "carbs": 38,
+    "category": "Drinks"
   },
   {
     "id": 4,
@@ -39,17 +42,19 @@
     "imageURL": "https://zimooooo233.github.io/images/AvocadoToast.jpg",
     "calories": 320,
     "protein": 7,
-    "carbs": 35
+    "carbs": 35,
+    "category": "Breakfast"
   },
   {
     "id": 5,
     "name": "Grilled Salmon",
     "description": "Atlantic salmon fillet with lemon butter sauce",
-    "price": 18.50,
+    "price": 18.5,
     "imageURL": "https://zimooooo233.github.io/images/GrilledSalmon.jpg",
     "calories": 480,
     "protein": 35,
-    "carbs": 10
+    "carbs": 10,
+    "category": "Main Courses"
   },
   {
     "id": 6,
@@ -59,7 +64,8 @@
     "imageURL": "https://zimooooo233.github.io/images/ChocolateBrownie.jpeg",
     "calories": 380,
     "protein": 5,
-    "carbs": 52
+    "carbs": 52,
+    "category": "Desserts"
   },
   {
     "id": 7,
@@ -69,7 +75,8 @@
     "imageURL": "https://zimooooo233.github.io/images/CaesarSalad.jpg",
     "calories": 280,
     "protein": 12,
-    "carbs": 20
+    "carbs": 20,
+    "category": "Appetizers"
   },
   {
     "id": 8,
@@ -79,7 +86,8 @@
     "imageURL": "https://zimooooo233.github.io/images/MargheritaPizza.jpeg",
     "calories": 720,
     "protein": 22,
-    "carbs": 85
+    "carbs": 85,
+    "category": "Main Courses"
   },
   {
     "id": 9,
@@ -89,7 +97,8 @@
     "imageURL": "https://zimooooo233.github.io/images/IcedMatchaLatte.jpg",
     "calories": 120,
     "protein": 6,
-    "carbs": 18
+    "carbs": 18,
+    "category": "Drinks"
   },
   {
     "id": 10,
@@ -99,17 +108,19 @@
     "imageURL": "https://zimooooo233.github.io/images/BeefTacos.webp",
     "calories": 550,
     "protein": 28,
-    "carbs": 45
+    "carbs": 45,
+    "category": "Main Courses"
   },
   {
     "id": 11,
     "name": "Vegetable Stir Fry",
     "description": "Assorted vegetables wok-tossed in ginger sauce",
-    "price": 11.50,
+    "price": 11.5,
     "imageURL": "https://zimooooo233.github.io/images/VegetableStirFry.jpeg",
     "calories": 320,
     "protein": 9,
-    "carbs": 42
+    "carbs": 42,
+    "category": "Main Courses"
   },
   {
     "id": 12,
@@ -119,7 +130,8 @@
     "imageURL": "https://zimooooo233.github.io/images/BlueberryPancakes.jpg",
     "calories": 480,
     "protein": 10,
-    "carbs": 75
+    "carbs": 75,
+    "category": "Breakfast"
   },
   {
     "id": 13,
@@ -129,7 +141,8 @@
     "imageURL": "https://zimooooo233.github.io/images/MushroomRisotto.jpg",
     "calories": 420,
     "protein": 11,
-    "carbs": 62
+    "carbs": 62,
+    "category": "Main Courses"
   },
   {
     "id": 14,
@@ -139,17 +152,19 @@
     "imageURL": "https://zimooooo233.github.io/images/ChickenWrap.jpg",
     "calories": 380,
     "protein": 24,
-    "carbs": 35
+    "carbs": 35,
+    "category": "Main Courses"
   },
   {
     "id": 15,
     "name": "Fruit Parfait",
     "description": "Layered yogurt with granola and seasonal fruits",
-    "price": 6.50,
+    "price": 6.5,
     "imageURL": "https://zimooooo233.github.io/images/FruitParfait.jpeg",
     "calories": 240,
     "protein": 10,
-    "carbs": 40
+    "carbs": 40,
+    "category": "Desserts"
   },
   {
     "id": 16,
@@ -159,7 +174,8 @@
     "imageURL": "https://zimooooo233.github.io/images/BBQRibs.jpeg",
     "calories": 780,
     "protein": 42,
-    "carbs": 65
+    "carbs": 65,
+    "category": "Main Courses"
   },
   {
     "id": 17,
@@ -169,7 +185,8 @@
     "imageURL": "https://zimooooo233.github.io/images/Espresso.jpeg",
     "calories": 5,
     "protein": 0,
-    "carbs": 1
+    "carbs": 1,
+    "category": "Drinks"
   },
   {
     "id": 18,
@@ -179,17 +196,19 @@
     "imageURL": "https://zimooooo233.github.io/images/VeggieBurger.avif",
     "calories": 420,
     "protein": 18,
-    "carbs": 55
+    "carbs": 55,
+    "category": "Burgers"
   },
   {
     "id": 19,
     "name": "Shrimp Pasta",
     "description": "Linguine with garlic shrimp in white wine sauce",
-    "price": 15.50,
+    "price": 15.5,
     "imageURL": "https://zimooooo233.github.io/images/ShrimpPasta.jpeg",
     "calories": 580,
     "protein": 32,
-    "carbs": 72
+    "carbs": 72,
+    "category": "Main Courses"
   },
   {
     "id": 20,
@@ -199,7 +218,8 @@
     "imageURL": "https://zimooooo233.github.io/images/Cheesecake.jpg",
     "calories": 520,
     "protein": 8,
-    "carbs": 45
+    "carbs": 45,
+    "category": "Desserts"
   }
 ]
 }
